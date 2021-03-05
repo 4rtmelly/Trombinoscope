@@ -8,7 +8,8 @@ Tip : funny thing, hover on the picture profile of each card for a surprise :smi
 - Wamp : https://www.wampserver.com/en/download-wampserver-64bits/
 - HTML, CSS, JS, PHP
 - Database 
--
+- Bootstrap
+- Font Awesome (for pretty pretty icons)
 
 # :wrench: How to run it :
 
